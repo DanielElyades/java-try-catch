@@ -1,5 +1,5 @@
 # Estrutura try-catch
->
+
 ### Bloco try
 * Contém o código que repreenta a execução normal do trecho de código que pode acarretar em uma excceção.
 
@@ -13,5 +13,5 @@
 
 ### Pilha de chamada de métodos
 #### Classe Program2
->Foi adicionado um método a classe.
->Marcadores mostram quando iniciam e finalizam os métodos. A o "method2" foi adicionado "printStrackTrace();" para especificar a exceção.
+>Foi adicionado um método a classe **Program** .
+>Marcadores mostram quando iniciam e finalizam os métodos. Ao **method2** foi adicionado **printStrackTrace();** para rastrear a exceção.
