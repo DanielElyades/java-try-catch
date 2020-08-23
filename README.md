@@ -14,5 +14,4 @@
 ### Pilha de chamada de métodos
 #### Classe Program2
 >Foi adicionado um método a classe.
->Marcadores mostram quando iniciam e finalizam os métodos.
->
+>Marcadores mostram quando iniciam e finalizam os métodos. A o "method2" foi adicionado "printStrackTrace();" para especificar a exceção.
